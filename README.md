@@ -1,2 +1,2 @@
 # Test-Project
-This is an empty test project
+This is an empty test project.
